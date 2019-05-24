@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E5C00A68-E6DB-FEA3-938C-F34D364EA738}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletShoot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/sprite_move.cs" Line="98" Column="1" />
+      <File FileName="Assets/Scripts/SpriteMove2.cs" Line="86" Column="1" />
+      <File FileName="Assets/Scripts/bulletscript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CollisionHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shoot2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerCollisionHandler.cs" Line="23" Column="27" />
+      <File FileName="Assets/Scripts/Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ToGame.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/NonDestruct.cs" Line="11" Column="38" />
+      <File FileName="Assets/Scripts/BulletShoot.cs" Line="38" Column="10" />
+      <File FileName="Assets/Scripts/BulletShoot2.cs" Line="31" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
